@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a learning developer...
 ---------------------------
 
-I have already learned some languages ​​such as JavaScript and Lua and I am currently working on projects in Lego MINDSTORM for the Brazilian Robotics Olympiad (OBR), I have a diploma in English fluency, I speak Portuguese natively and I am currently taking a course to learn French.
-
-* 🌍  I'm based in Brazil
-* ✉️  You can contact me at [felipebezerrabr12@gmail.com](mailto:felipebezerrabr12@gmail.com)
-* 🧠  I'm learning Scratch and Block in LegoMINDSTORM
-* ⚡  That's me, anything just send me an email.
+Boom
+Excelent
+Games
+Inteligent in some specific things
+Night person
+Escaduel
+Rust
 
 ### Skills
 
